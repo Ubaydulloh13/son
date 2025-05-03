@@ -1,0 +1,56 @@
+.d1{
+    background-color: yellow;
+}
+h1{
+    background-color: lightblue;
+    border: 1px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
+.d2{
+    color: red;
+}
+.d3{
+    color: green;
+}
+.d4{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.d5{
+    width: 700px;
+}
+.d6{
+    width: 1200px;
+}
+button{
+    background-color: lightblue;
+    width: 180px;
+    height: 30px;
+    border: none;
+    color: white;
+}
+th,td{
+    border: 2px solid gray;
+    height: 30px;
+    }
+    table{
+        width: 80%;
+        margin: 30px auto;
+        text-align: center;
+        border-collapse: collapse;
+        color: white
+    }
+    .yashil{
+        background-color: green ;
+    }
+    .kok{
+        background-color: blue;
+    }
+    .red{
+        background-color: red;
+    }
+    .qora{
+        background-color: black;
+    }
